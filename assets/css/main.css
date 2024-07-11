@@ -768,7 +768,7 @@ section,
 }
 
 .portfolio .portfolio-content:hover .portfolio-info {
-  opacity: 10;
+  opacity: 1;
 }
 
 .portfolio .portfolio-content:hover img {
